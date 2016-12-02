@@ -6,7 +6,7 @@ This are the solutions I coded for the Advent of Code 2015 Challenge. They are c
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Studiosi
+Copyright (c) 2015 David Gil de Gómez Pérez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
